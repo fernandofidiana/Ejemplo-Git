@@ -1,1 +1,1 @@
-<?php echo "HOLA Samuel"; ?>
+<?php echo "HOLA Samuel y Carlos"; ?>
